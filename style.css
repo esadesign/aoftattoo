@@ -1,0 +1,274 @@
+:root {
+    --primary-color: #000000;   /* Täysin musta, kuten logon tausta */
+    --accent-color: #FFFFFF;    /* Puhtaan valkoinen korostuksiin ja painikkeisiin */
+    --silver-color: #A6A9B0;    /* Logon tyylikäs metallinen hopea/teräs tekstille ja yksityiskohdille */
+    --text-color: #CCCCCC;      /* Kirkkaanharmaa leipäteksti, joka erottuu mustalta taustalta */
+    --bg-color: #070707;        /* Ultra-tumma taustaväri sivuille */
+    --light-bg: #121212;        /* Subtle tummanharmaa korteille ja laatikoille tuomaan syvyyttä */
+    --border-color: #222222;    /* Tyylikkäät, tummat reuna-viivat */
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #FFFFFF;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+h1 { font-size: 2rem; } 
+h2 { 
+    font-size: 1.5rem; 
+    border-bottom: 1px solid var(--silver-color);
+    padding-bottom: 5px;
+    margin-top: 30px;
+    color: #FFFFFF;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px; /* Hieman terävämmät kulmat sopivat logon tyyliin paremmin */
+}
+
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1.2rem 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.nav-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: color 0.3s;
+}
+
+.logo:hover {
+    color: var(--silver-color);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: #999999;
+    text-decoration: none;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+nav a:hover {
+    color: #FFFFFF;
+}
+
+nav a.active {
+    color: #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    padding-bottom: 4px;
+}
+
+/* --- MONOKROMAATTINEN PAINIKE --- */
+.cta-button {
+    display: inline-block;
+    background-color: var(--accent-color);
+    color: #000000; /* Musta teksti valkoisella pohjalla luo kovan kontrastin */
+    padding: 12px 28px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+    border-radius: 0px; /* Täysin terävät kulmat antavat high-end-fiiliksen */
+    border: 1px solid var(--accent-color);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 15px;
+}
+
+.cta-button:hover {
+    background-color: transparent;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    transform: translateY(-2px);
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column; 
+    gap: 30px;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.hero-content h1 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+.benefit-grid {
+    display: grid;
+    grid-template-columns: 1fr; 
+    gap: 20px;
+}
+
+.card {
+    background: var(--light-bg);
+    padding: 25px;
+    border-radius: 0px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+    border: 1px solid var(--border-color);
+}
+
+.card h3 {
+    color: var(--silver-color);
+    margin-top: 0;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+}
+
+/* --- PORTFOLIO / KUVA-GALLERIA --- */
+.portfolio-intro {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.image-grid img {
+    width: 100%;
+    height: 340px;
+    object-fit: cover;
+    border-radius: 0px;
+    border: 1px solid var(--border-color);
+    transition: all 0.4s ease;
+    filter: grayscale(20%); /* Jättää kuviin hieman karkeutta, sopii tyyliin */
+}
+
+.image-grid img:hover {
+    transform: scale(1.01);
+    border-color: #FFFFFF;
+    filter: grayscale(0%); /* Kuva herää täysiin väreihin kun sen päälle vie hiiren */
+}
+
+/* --- YHTEYSTIEDOT & LOMAKE --- */
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.contact-info h3 {
+    color: var(--silver-color);
+    text-transform: uppercase;
+    font-size: 1.1rem;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 15px;
+    background-color: #000000;
+    color: #FFFFFF;
+    border: 1px solid var(--border-color);
+    border-radius: 0px;
+    box-sizing: border-box; 
+    font-family: inherit;
+}
+
+input:focus, textarea:focus {
+    border-color: #FFFFFF;
+    outline: none;
+}
+
+footer {
+    background-color: var(--primary-color);
+    color: #555555;
+    text-align: center;
+    padding: 40px;
+    margin-top: 60px;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.85rem;
+}
+
+footer .socials a {
+    color: var(--silver-color);
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+
+footer .socials a:hover {
+    color: #FFFFFF;
+}
+
+/* --- RESPONSIVISUUS (Tabletit ja Tietokoneet) --- */
+@media (min-width: 768px) {
+    h1 { font-size: 3.2rem; }
+    
+    .hero {
+        flex-direction: row; 
+        text-align: left;
+        gap: 60px;
+    }
+    
+    .hero-content { flex: 1.2; }
+    .hero-image { flex: 0.8; }
+
+    .benefit-grid {
+        grid-template-columns: repeat(3, 1fr); 
+    }
+
+    .contact-container {
+        flex-direction: row;
+        gap: 60px;
+    }
+    
+    .contact-form { flex: 1.4; }
+    .contact-info { flex: 1; }
+}
