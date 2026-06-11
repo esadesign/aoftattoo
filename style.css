@@ -80,6 +80,7 @@ nav ul {
     padding: 0;
     display: flex;
     gap: 20px;
+    align-items: center;
 }
 
 nav a {
@@ -100,6 +101,20 @@ nav a.active {
     color: #FFFFFF;
     border-bottom: 2px solid #FFFFFF;
     padding-bottom: 4px;
+}
+
+.lang-btn {
+    border: 1px solid var(--border-color);
+    padding: 4px 8px;
+    font-size: 0.75rem;
+    color: var(--silver-color);
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.lang-btn:hover {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
 }
 
 .cta-button {
