@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - Aof Tattoo Studio Phuket</title>
+    <title>Contact & Location - Aof Tattoo Studio</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
     <header>
         <div class="nav-container">
-            <a href="index.html" class="logo">Aof Tattoo Studio Phuket</a>
+            <a href="index.html" class="logo">Aof Tattoo Studio</a>
             <nav>
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -24,11 +24,12 @@
 
     <main>
         <section class="contact-section">
-            <h1>Contact</h1>
-            <p>Have any questions or concerns?</p>
+            <h1>Contact & Location</h1>
+            <p>Have questions, want to book a session, or find the studio?</p>
 
             <div class="contact-container">
                 <form action="#" method="post" class="contact-form">
+                    <h2>Book a Session</h2>
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" placeholder="John Doe" required>
 
@@ -36,29 +37,90 @@
                     <input type="email" id="email" name="email" placeholder="email@example.com" required>
 
                     <label for="message">Message:</label>
-                    <textarea id="message" name="message" rows="5" placeholder="Write your message here..." required></textarea>
+                    <textarea id="message" name="message" rows="5" placeholder="Tell me about your tattoo idea, size, and placement..." required></textarea>
 
                     <button type="submit" class="cta-button">Send Message</button>
                 </form>
 
                 <div class="contact-info">
-                    <h3>Customer Service</h3>
+                    <h2>Studio Info</h2>
                     <p>📧 aof@aoftattoostudio.com</p>
                     <p>📞 +66 92 701 3659</p>
-                    <p>📍 98, 98 Kata Rd, Karon, Amphoe Mueang Phuket, Phuket 83100, Thailand</p>
+                    <p>📍 Höyläämötie 11a, 00380 Helsinki, Finland</p>
                     
-                    <h3>FAQ</h3>
-                    <p><strong>Is it safe and hygienic?</strong><br>Absolutely. I use 100% sterile, single-use disposable needles and follow strict professional hygiene standards to ensure your safety.</p>
-                    <p><strong>How do I book an appointment?</strong><br>You can book a session by sending a message on Instagram or email. Please include your design idea, size, and placement.</p>
-                    <p><strong>What is the age limit?</strong><br>You must be 18 years or older to get a tattoo. Please bring a valid ID (like a passport or driver's license) to your appointment.</p>
+                    <h3>Nail Salon Enquiries</h3>
+                    <p>Want to book a nail appointment at the same location? Feel free to ask about nail salon availability and services when contacting us!</p>
+
+                    <div class="map-section">
+                        <h3>Where I Work</h3>
+                        <div class="map-responsive">
+                            <iframe 
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1m2!1s0x469205d7d5077d7d%3A0xdbd3366455ac6cad!2sH%C3%B6yl%C3%A4%C3%A4m%C3%B6tie%2011%2C%2000380%20Helsinki!5m2!1sfi!2sfi" 
+                                width="600" 
+                                height="300" 
+                                style="border:0;" 
+                                allowfullscreen="" 
+                                loading="lazy" 
+                                referrerpolicy="no-referrer-when-downgrade">
+                            </iframe>
+                        </div>
+                    </div>
                 </div>
+            </div>
+        </section>
+
+        <section class="faq-accordion-section">
+            <h2>Frequently Asked Questions</h2>
+            
+            <div class="accordion-container">
+                <details class="accordion-item">
+                    <summary class="accordion-header">How much does a tattoo cost? <span class="icon">+</span></summary>
+                    <div class="accordion-content">
+                        <p>The price depends on the size, detail, and technique (bamboo or machine). Contact me with your design idea for a personal price estimate.</p>
+                    </div>
+                </details>
+
+                <details class="accordion-item">
+                    <summary class="accordion-header">Do you help with the design/sketch? <span class="icon">+</span></summary>
+                    <div class="accordion-content">
+                        <p>Yes, absolutely! Every tattoo is custom-made. We will work together on the design and adjustments to make sure it is exactly what you want.</p>
+                    </div>
+                </details>
+
+                <details class="accordion-item">
+                    <summary class="accordion-header">Does getting a tattoo hurt? <span class="icon">+</span></summary>
+                    <div class="accordion-content">
+                        <p>Pain is personal and depends on the body placement. Generally, traditional bamboo tattoos hurt less and heal significantly faster than machine tattoos.</p>
+                    </div>
+                </details>
+
+                <details class="accordion-item">
+                    <summary class="accordion-header">How should I prepare for my session? <span class="icon">+</span></summary>
+                    <div class="accordion-content">
+                        <p>Get a good night's sleep, eat a proper meal before coming, and stay hydrated. Do not drink alcohol 24 hours before your appointment.</p>
+                    </div>
+                </details>
+
+                <details class="accordion-item">
+                    <summary class="accordion-header">How do I take care of my new tattoo? <span class="icon">+</span></summary>
+                    <div class="accordion-content">
+                        <p>Keep the tattoo clean, avoid swimming, saunas, and direct sunlight for the first 2 weeks. Apply the aftercare cream provided or recommended by the studio.</p>
+                    </div>
+                </details>
+
+                <details class="accordion-item">
+                    <summary class="accordion-header">Is it safe and hygienic? <span class="icon">+</span></summary>
+                    <div class="accordion-content">
+                        <p>Your safety is my highest priority. I use 100% sterile, single-use disposable needles and follow strict European and professional hygiene standards.</p>
+                    </div>
+                </details>
             </div>
         </section>
     </main>
 
     <footer>
         <div class="footer-content">
-            <p>&copy; 2026 Aof Tattoo Studio Phuket.</p>
+            <p>© 2026 Aof Tattoo Studio.</p>
         </div>
     </footer>
 
