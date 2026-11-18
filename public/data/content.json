@@ -1,0 +1,1127 @@
+{
+  "studio": {
+    "name": "Aof Tattoo Studio Phuket",
+    "heroImage": "/kuvat/hero.jpg",
+    "email": "aof@aoftattoostudio.com",
+    "phone": "+66 92 701 3659",
+    "address": "98, 98 Kata Rd, Karon, Amphoe Mueang Phuket, Phuket 83100, Thailand",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=98%20Kata%20Rd%2C%20Karon%2C%20Amphoe%20Mueang%20Phuket%2C%20Phuket%2083100%2C%20Thailand&t=&z=16&ie=UTF8&iwloc=&output=embed",
+    "instagram": "https://www.instagram.com/aoftattoostudiophuket",
+    "facebook": "https://www.facebook.com/aoftattoostudiophuket"
+  },
+  "portfolio": [
+    {
+      "image": "/images/sak-yant/IMG_3717.JPG",
+      "category": "sak-yant",
+      "title": "IMG 3717"
+    },
+    {
+      "image": "/images/sak-yant/IMG_3736.JPG",
+      "category": "sak-yant",
+      "title": "IMG 3736"
+    },
+    {
+      "image": "/images/sak-yant/IMG_3946.JPG",
+      "category": "sak-yant",
+      "title": "IMG 3946"
+    },
+    {
+      "image": "/images/sak-yant/IMG_4366.JPG",
+      "category": "sak-yant",
+      "title": "IMG 4366"
+    },
+    {
+      "image": "/images/sak-yant/sak-yant-01.jpg",
+      "category": "sak-yant",
+      "title": "Sacred Yantra Upper Back Sak Yant"
+    },
+    {
+      "image": "/images/realistic/IMG_3707.JPG",
+      "category": "realistic",
+      "title": "IMG 3707"
+    },
+    {
+      "image": "/images/realistic/IMG_3731.JPG",
+      "category": "realistic",
+      "title": "IMG 3731"
+    },
+    {
+      "image": "/images/realistic/IMG_3734.JPG",
+      "category": "realistic",
+      "title": "IMG 3734"
+    },
+    {
+      "image": "/images/realistic/IMG_3742.JPG",
+      "category": "realistic",
+      "title": "IMG 3742"
+    },
+    {
+      "image": "/images/realistic/IMG_3752.JPG",
+      "category": "realistic",
+      "title": "IMG 3752"
+    },
+    {
+      "image": "/images/realistic/IMG_3760.JPG",
+      "category": "realistic",
+      "title": "IMG 3760"
+    },
+    {
+      "image": "/images/realistic/IMG_3762.JPG",
+      "category": "realistic",
+      "title": "IMG 3762"
+    },
+    {
+      "image": "/images/realistic/IMG_3764.JPG",
+      "category": "realistic",
+      "title": "IMG 3764"
+    },
+    {
+      "image": "/images/realistic/IMG_3933.JPG",
+      "category": "realistic",
+      "title": "IMG 3933"
+    },
+    {
+      "image": "/images/realistic/IMG_3938.JPG",
+      "category": "realistic",
+      "title": "IMG 3938"
+    },
+    {
+      "image": "/images/realistic/IMG_3941.JPG",
+      "category": "realistic",
+      "title": "IMG 3941"
+    },
+    {
+      "image": "/images/realistic/IMG_3959.JPG",
+      "category": "realistic",
+      "title": "IMG 3959"
+    },
+    {
+      "image": "/images/realistic/IMG_3968.JPG",
+      "category": "realistic",
+      "title": "IMG 3968"
+    },
+    {
+      "image": "/images/realistic/IMG_3976.JPG",
+      "category": "realistic",
+      "title": "IMG 3976"
+    },
+    {
+      "image": "/images/realistic/IMG_3977.JPG",
+      "category": "realistic",
+      "title": "IMG 3977"
+    },
+    {
+      "image": "/images/realistic/IMG_3983.JPG",
+      "category": "realistic",
+      "title": "IMG 3983"
+    },
+    {
+      "image": "/images/realistic/realistic-01.jpg",
+      "category": "realistic",
+      "title": "Black & Grey Realism Lion Portrait"
+    },
+    {
+      "image": "/images/geometric/geometric-01.jpg",
+      "category": "geometric",
+      "title": "Sacred Geometry Dotwork Chest & Shoulder"
+    },
+    {
+      "image": "/images/geometric/IMG_3703.JPG",
+      "category": "geometric",
+      "title": "IMG 3703"
+    },
+    {
+      "image": "/images/geometric/IMG_3705.JPG",
+      "category": "geometric",
+      "title": "IMG 3705"
+    },
+    {
+      "image": "/images/geometric/IMG_3709.JPG",
+      "category": "geometric",
+      "title": "IMG 3709"
+    },
+    {
+      "image": "/images/geometric/IMG_3713.JPG",
+      "category": "geometric",
+      "title": "IMG 3713"
+    },
+    {
+      "image": "/images/geometric/IMG_3714.JPG",
+      "category": "geometric",
+      "title": "IMG 3714"
+    },
+    {
+      "image": "/images/polynesian/IMG_3744.JPG",
+      "category": "polynesian",
+      "title": "IMG 3744"
+    },
+    {
+      "image": "/images/polynesian/polynesian-01.jpg",
+      "category": "polynesian",
+      "title": "Traditional Polynesian Upper Arm Band"
+    },
+    {
+      "image": "/images/full-sleeve/full-sleeve-01.jpg",
+      "category": "full-sleeve",
+      "title": "Irezumi Koi & Peony Full Sleeve"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3695.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3695"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3698.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3698"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3701.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3701"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3705.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3705"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3710.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3710"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3711.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3711"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3737.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3737"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3929.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3929"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3930.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3930"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_3932.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 3932"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_4016.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 4016"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_4017.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 4017"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_4359.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 4359"
+    },
+    {
+      "image": "/images/full-sleeve/IMG_4361.JPG",
+      "category": "full-sleeve",
+      "title": "IMG 4361"
+    },
+    {
+      "image": "/images/half-sleeve/half-sleeve-01.jpg",
+      "category": "half-sleeve",
+      "title": "Neo-Japanese Dragon Half Sleeve"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3702.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3702"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3703.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3703"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3707.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3707"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3720.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3720"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3725.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3725"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3729.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3729"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3730.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3730"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3731.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3731"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3734.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3734"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3741.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3741"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3742.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3742"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3745.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3745"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3746.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3746"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3747.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3747"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3748.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3748"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3752.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3752"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3759.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3759"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3760.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3760"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3763.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3763"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3764.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3764"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3912.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3912"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3933.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3933"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3934.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3934"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3935.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3935"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3938.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3938"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3941.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3941"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3942.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3942"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3950.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3950"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3959.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3959"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_3968.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 3968"
+    },
+    {
+      "image": "/images/half-sleeve/IMG_4343.JPG",
+      "category": "half-sleeve",
+      "title": "IMG 4343"
+    },
+    {
+      "image": "/images/full-back/full-back-01.jpg",
+      "category": "full-back",
+      "title": "Hannya & Serpent Full Back Masterpiece"
+    },
+    {
+      "image": "/images/full-back/IMG_0146.jpg",
+      "category": "full-back",
+      "title": "IMG 0146"
+    },
+    {
+      "image": "/images/full-back/IMG_3389.JPG",
+      "category": "full-back",
+      "title": "IMG 3389"
+    },
+    {
+      "image": "/images/full-back/IMG_3391.JPG",
+      "category": "full-back",
+      "title": "IMG 3391"
+    },
+    {
+      "image": "/images/full-back/IMG_3392.JPG",
+      "category": "full-back",
+      "title": "IMG 3392"
+    },
+    {
+      "image": "/images/full-back/IMG_3717.JPG",
+      "category": "full-back",
+      "title": "IMG 3717"
+    },
+    {
+      "image": "/images/full-back/IMG_3733.JPG",
+      "category": "full-back",
+      "title": "IMG 3733"
+    },
+    {
+      "image": "/images/full-back/IMG_3736.JPG",
+      "category": "full-back",
+      "title": "IMG 3736"
+    },
+    {
+      "image": "/images/full-back/IMG_3913.JPG",
+      "category": "full-back",
+      "title": "IMG 3913"
+    },
+    {
+      "image": "/images/full-back/IMG_4334.JPG",
+      "category": "full-back",
+      "title": "IMG 4334"
+    },
+    {
+      "image": "/images/full-back/Tattoo 1.jpg",
+      "category": "full-back",
+      "title": "Tattoo 1"
+    },
+    {
+      "image": "/images/coverup/coverup-01.jpg",
+      "category": "coverup",
+      "title": "Raven & Botanical Blackwork Cover-Up"
+    },
+    {
+      "image": "/images/coverup/IMG_3712.JPG",
+      "category": "coverup",
+      "title": "IMG 3712"
+    },
+    {
+      "image": "/images/coverup/IMG_3715.JPG",
+      "category": "coverup",
+      "title": "IMG 3715"
+    },
+    {
+      "image": "/images/coverup/IMG_3716.JPG",
+      "category": "coverup",
+      "title": "IMG 3716"
+    },
+    {
+      "image": "/images/coverup/IMG_3739.JPG",
+      "category": "coverup",
+      "title": "IMG 3739"
+    },
+    {
+      "image": "/images/coverup/IMG_3750.JPG",
+      "category": "coverup",
+      "title": "IMG 3750"
+    },
+    {
+      "image": "/images/coverup/IMG_3751.JPG",
+      "category": "coverup",
+      "title": "IMG 3751"
+    },
+    {
+      "image": "/images/coverup/IMG_3758.JPG",
+      "category": "coverup",
+      "title": "IMG 3758"
+    },
+    {
+      "image": "/images/coverup/IMG_3765.JPG",
+      "category": "coverup",
+      "title": "IMG 3765"
+    },
+    {
+      "image": "/images/coverup/IMG_3957.JPG",
+      "category": "coverup",
+      "title": "IMG 3957"
+    },
+    {
+      "image": "/images/minimal/IMG_3925.JPG",
+      "category": "minimal",
+      "title": "IMG 3925"
+    },
+    {
+      "image": "/images/minimal/IMG_3926.JPG",
+      "category": "minimal",
+      "title": "IMG 3926"
+    },
+    {
+      "image": "/images/minimal/IMG_3927.JPG",
+      "category": "minimal",
+      "title": "IMG 3927"
+    },
+    {
+      "image": "/images/minimal/IMG_3928.JPG",
+      "category": "minimal",
+      "title": "IMG 3928"
+    },
+    {
+      "image": "/images/minimal/IMG_4353.JPG",
+      "category": "minimal",
+      "title": "IMG 4353"
+    },
+    {
+      "image": "/images/minimal/IMG_4357.JPG",
+      "category": "minimal",
+      "title": "IMG 4357"
+    },
+    {
+      "image": "/images/minimal/minimal-01.jpg",
+      "category": "minimal",
+      "title": "Single-Needle Lotus & Crescent Wrist"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3690.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3690"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3696.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3696"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3704.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3704"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3706.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3706"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3708.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3708"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3718.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3718"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3719.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3719"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3721.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3721"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3722.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3722"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3723.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3723"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3724.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3724"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3726.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3726"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3727.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3727"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3728.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3728"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3743.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3743"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3749.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3749"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3753.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3753"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3756.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3756"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3757.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3757"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3761.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3761"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3940.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3940"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3944.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3944"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3945.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3945"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3947.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3947"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3949.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3949"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3951.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3951"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3952.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3952"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3953.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3953"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3954.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3954"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3955.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3955"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3956.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3956"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3958.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3958"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3960.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3960"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3962.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3962"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3963.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3963"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3964.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3964"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3965.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3965"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3966.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3966"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3969.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3969"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3970.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3970"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3971.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3971"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3996.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3996"
+    },
+    {
+      "image": "/images/small-jobs/IMG_3997.JPG",
+      "category": "small-jobs",
+      "title": "IMG 3997"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4335.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4335"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4336.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4336"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4337.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4337"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4338.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4338"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4340.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4340"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4342.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4342"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4344.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4344"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4345.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4345"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4346.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4346"
+    },
+    {
+      "image": "/images/small-jobs/IMG_4347.JPG",
+      "category": "small-jobs",
+      "title": "IMG 4347"
+    },
+    {
+      "image": "/images/small-jobs/small-jobs-01.jpg",
+      "category": "small-jobs",
+      "title": "Fine-Line Compass & Wave Ankle Piece"
+    },
+    {
+      "image": "/images/small-jobs/รูปภาพ 2566-05-08 07.35.18 PM.jpg",
+      "category": "small-jobs",
+      "title": "รูปภาพ 2566 05 08 07.35.18 PM"
+    },
+    {
+      "image": "/images/small-jobs/รูปภาพ 2566-05-08 11.31.22 PM.jpg",
+      "category": "small-jobs",
+      "title": "รูปภาพ 2566 05 08 11.31.22 PM"
+    }
+  ],
+  "en": {
+    "nav": {
+      "home": "Home",
+      "portfolio": "Portfolio",
+      "contact": "Contact",
+      "langSwitchLabel": "TH",
+      "langSwitchAria": "Switch language to Thai",
+      "menuOpenAria": "Open navigation menu",
+      "menuCloseAria": "Close navigation menu"
+    },
+    "hero": {
+      "title": "AOF TATTOO STUDIO PHUKET",
+      "subtitle": "Expertise in various styles including Japanese, Realism, Geometric, and authentic Sak Yant!",
+      "cta": "Explore Styles",
+      "secondaryCta": "Contact Us",
+      "imageAlt": "Professional tattoo artist Aof working on a custom design at his studio in Phuket.",
+      "locationLine": "Karon / Kata · Phuket, Thailand"
+    },
+    "whyChooseUs": {
+      "heading": "Why Choose Us?",
+      "cards": [
+        {
+          "title": "✨ Custom Artworks",
+          "description": "Every tattoo is unique. We collaborate closely with you to turn your vision, references, and ideas into a lifelong masterpiece."
+        },
+        {
+          "title": "🛡️ Strict Hygiene",
+          "description": "Your health is our priority. We use 100% sterile, single-use disposable needles and follow world-class hygiene regulations."
+        },
+        {
+          "title": "🎋 Authentic Sak Yant",
+          "description": "Experience traditional Thai Sak Yant tattoos, handcrafted carefully using either traditional bamboo techniques or modern machines."
+        }
+      ]
+    },
+    "nailSalon": {
+      "title": "💅 Also Located Here: Professional Nail Salon",
+      "body": "Visiting with a partner or looking for more pampering? Our studio also features a professional nail salon in the exact same location. You can get your custom tattoos and fresh, beautiful nails all in one visit!"
+    },
+    "portfolio": {
+      "heading": "Our Masterworks",
+      "intro": "Explore our expertise across a wide variety of styles. Click on contact to book your custom session.",
+      "allFilter": "All",
+      "emptyState": "No portfolio pieces are currently listed in this category.",
+      "viewFullLabel": "View full size",
+      "viewBadgeLabel": "View",
+      "closeLightboxLabel": "Close gallery lightbox",
+      "prevImageLabel": "Previous artwork",
+      "nextImageLabel": "Next artwork",
+      "categories": [
+        {
+          "slug": "sak-yant",
+          "label": "Sak Yant (Bamboo & Machine)"
+        },
+        {
+          "slug": "realistic",
+          "label": "Realistic Style Tattoos"
+        },
+        {
+          "slug": "geometric",
+          "label": "Geometric Style Tattoos"
+        },
+        {
+          "slug": "polynesian",
+          "label": "Polynesian Style Tattoos"
+        },
+        {
+          "slug": "full-sleeve",
+          "label": "Full Sleeve Tattoos"
+        },
+        {
+          "slug": "half-sleeve",
+          "label": "Half Sleeve Tattoos"
+        },
+        {
+          "slug": "full-back",
+          "label": "Full Back Tattoos"
+        },
+        {
+          "slug": "coverup",
+          "label": "Cover-up Tattoos"
+        },
+        {
+          "slug": "minimal",
+          "label": "Minimal Tattoos"
+        },
+        {
+          "slug": "small-jobs",
+          "label": "Small Job Tattoos"
+        }
+      ]
+    },
+    "contact": {
+      "heading": "Contact & Location",
+      "intro": "Have questions, want to book a session, or find the studio?",
+      "formHeading": "Book a Session",
+      "nameLabel": "Name",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "Email",
+      "emailPlaceholder": "email@example.com",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell me about your tattoo idea, size, and placement...",
+      "submitLabel": "Send Message",
+      "sentTitle": "Inquiry Prepared",
+      "sentMessage": "Your booking details have been prepared for your email app. You can also message us directly via email or WhatsApp below.",
+      "openMailClientLabel": "Open Email App Again",
+      "resetFormLabel": "Send Another Inquiry",
+      "validation": {
+        "nameRequired": "Please enter your name.",
+        "emailInvalid": "Please enter a valid email address.",
+        "messageRequired": "Please describe your tattoo idea, size, and placement."
+      },
+      "infoHeading": "Studio Info",
+      "emailLabelInfo": "Email",
+      "phoneLabelInfo": "Phone / WhatsApp",
+      "addressLabelInfo": "Address",
+      "nailHeading": "Nail Salon Enquiries",
+      "nailBody": "Want to book a nail appointment at the same location? Feel free to ask about nail salon availability and services when contacting us!",
+      "mapHeading": "Where I Work",
+      "mapTitle": "Map showing Aof Tattoo Studio Phuket at 98 Kata Rd, Karon, Phuket",
+      "faqHeading": "Frequently Asked Questions",
+      "faqs": [
+        {
+          "question": "How much does a tattoo cost?",
+          "answer": "The price depends on the size, detail, and technique (bamboo or machine). Contact me with your design idea for a personal price estimate."
+        },
+        {
+          "question": "Do you help with the design/sketch?",
+          "answer": "Yes, absolutely! Every tattoo is custom-made. We will work together on the design and adjustments to make sure it is exactly what you want."
+        },
+        {
+          "question": "Does getting a tattoo hurt?",
+          "answer": "Pain is personal and depends on the body placement. Generally, traditional bamboo tattoos hurt less and heal significantly faster than machine tattoos."
+        },
+        {
+          "question": "How should I prepare for my session?",
+          "answer": "Get a good night's sleep, eat a proper meal before coming, and stay hydrated. Do not drink alcohol 24 hours before your appointment."
+        },
+        {
+          "question": "How do I take care of my new tattoo?",
+          "answer": "Keep the tattoo clean, avoid swimming, saunas, and direct sunlight for the first 2 weeks. Apply the aftercare cream provided or recommended by the studio."
+        },
+        {
+          "question": "Is it safe and hygienic?",
+          "answer": "Your safety is my highest priority. I use 100% sterile, single-use disposable needles and follow strict professional hygiene standards."
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "© 2026 Aof Tattoo Studio Phuket. All rights reserved.",
+      "instagramLabel": "Instagram",
+      "facebookLabel": "Facebook"
+    }
+  },
+  "th": {
+    "nav": {
+      "home": "หน้าแรก",
+      "portfolio": "ผลงาน",
+      "contact": "ติดต่อ",
+      "langSwitchLabel": "EN",
+      "langSwitchAria": "Switch language to English",
+      "menuOpenAria": "เปิดเมนูนำทาง",
+      "menuCloseAria": "ปิดเมนูนำทาง"
+    },
+    "hero": {
+      "title": "AOF TATTOO STUDIO PHUKET",
+      "subtitle": "เชี่ยวชาญการสักหลากหลายสไตล์ เช่น ลายสักญี่ปุ่น, งานเรียลลิสติก, แนวเรขาคณิต และลายสักยันต์ไทยดั้งเดิม!",
+      "cta": "ดูสไตล์ลายสัก",
+      "secondaryCta": "ติดต่อเรา",
+      "imageAlt": "Professional tattoo artist Aof working on a custom design at his studio in Phuket.",
+      "locationLine": "กะรน / กะตะ · ภูเก็ต ประเทศไทย"
+    },
+    "whyChooseUs": {
+      "heading": "ทำไมต้องเลือกเรา?",
+      "cards": [
+        {
+          "title": "✨ งานออกแบบเฉพาะบุคคล",
+          "description": "รอยสักทุกชิ้นได้รับการออกแบบขึ้นมาโดยเฉพาะ เราทำงานร่วมกับคุณอย่างใกล้ชิดเพื่อเปลี่ยนไอเดียและแรงบันดาลใจของคุณให้กลายเป็นผลงานศิลปะชิ้นเอกชั่วชีวิต"
+        },
+        {
+          "title": "🛡️ ความสะอาดและสุขอนามัย",
+          "description": "ความปลอดภัยของคุณคือสิ่งสำคัญที่สุดของเรา เราใช้เข็มสักแบบใช้ครั้งเดียวทิ้งที่ผ่านการฆ่าเชื้อ 100% และปฏิบัติตามมาตรฐานสุขอนามัยระดับโลกอย่างเคร่งครัด"
+        },
+        {
+          "title": "🎋 สักยันต์ไทยดั้งเดิม",
+          "description": "สัมผัสประสบการณ์การสักยันต์ไทยดั้งเดิมที่รังสรรค์อย่างพิถีพิถัน โดยมีให้เลือกทั้งเทคนิคการสักด้วยไม้ไผ่แบบโบราณหรือการใช้เครื่องสักทันสมัย"
+        }
+      ]
+    },
+    "nailSalon": {
+      "title": "💅 บริการร้านทำเล็บมืออาชีพในสถานที่เดียวกัน",
+      "body": "กำลังมาใช้บริการพร้อมกับแฟนหรือต้องการการดูแลเป็นพิเศษอยู่ใช่ไหม? สตูดิโอของเรายังมีบริการร้านทำเล็บมืออาชีพในตั้งอยู่ในพื้นที่เดียวกัน คุณสามารถรับบริการสักลายและทำเล็บสวยๆ ได้ครบจบในที่เดียว!"
+    },
+    "portfolio": {
+      "heading": "ผลงานของเรา",
+      "intro": "สำรวจความเชี่ยวชาญของเราในหลากหลายสไตล์ สามารถคลิกที่หน้าติดต่อเพื่อจองคิวสักของคุณ",
+      "allFilter": "ทั้งหมด",
+      "emptyState": "ยังไม่มีผลงานในหมวดหมู่นี้ในขณะนี้",
+      "viewFullLabel": "ดูภาพขนาดเต็ม",
+      "viewBadgeLabel": "ดูภาพขยาย",
+      "closeLightboxLabel": "ปิดหน้าต่างแสดงภาพ",
+      "prevImageLabel": "ภาพก่อนหน้า",
+      "nextImageLabel": "ภาพถัดไป",
+      "categories": [
+        {
+          "slug": "sak-yant",
+          "label": "สักยันต์ (ไม้ไผ่ & เครื่องสัก)"
+        },
+        {
+          "slug": "realistic",
+          "label": "ลายสักสไตล์เรียลลิสติก"
+        },
+        {
+          "slug": "geometric",
+          "label": "ลายสักแนวเรขาคณิต"
+        },
+        {
+          "slug": "polynesian",
+          "label": "ลายสักสไตล์โพลินีเซียน"
+        },
+        {
+          "slug": "full-sleeve",
+          "label": "งานสักเต็มแขน (Full Sleeve)"
+        },
+        {
+          "slug": "half-sleeve",
+          "label": "งานสักครึ่งแขน (Half Sleeve)"
+        },
+        {
+          "slug": "full-back",
+          "label": "งานสักเต็มหลัง (Full Back)"
+        },
+        {
+          "slug": "coverup",
+          "label": "งานสักทับรอยเดิม (Cover-up)"
+        },
+        {
+          "slug": "minimal",
+          "label": "ลายสักสไตล์มินิมอล"
+        },
+        {
+          "slug": "small-jobs",
+          "label": "งานสักขนาดเล็ก (Small Jobs)"
+        }
+      ]
+    },
+    "contact": {
+      "heading": "ติดต่อ & สถานที่ตั้ง",
+      "intro": "มีคำถาม ต้องการจองคิว หรือค้นหาที่ตั้งของสตูดิโอใช่ไหม?",
+      "formHeading": "จองคิวสัก",
+      "nameLabel": "ชื่อ",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "อีเมล",
+      "emailPlaceholder": "email@example.com",
+      "messageLabel": "ข้อความ",
+      "messagePlaceholder": "บอกเราเกี่ยวกับไอเดียลายสัก ขนาด และตำแหน่งที่ต้องการ...",
+      "submitLabel": "ส่งข้อความ",
+      "sentTitle": "เตรียมข้อมูลส่งอีเมลเรียบร้อยแล้ว",
+      "sentMessage": "ระบบได้เตรียมข้อความการจองของคุณสำหรับแอปอีเมลเรียบร้อยแล้ว หรือคุณสามารถติดต่อเราโดยตรงผ่านอีเมลและ WhatsApp ด้านล่างได้ทันที",
+      "openMailClientLabel": "เปิดแอปอีเมลอีกครั้ง",
+      "resetFormLabel": "ส่งข้อความใหม่อีกครั้ง",
+      "validation": {
+        "nameRequired": "กรุณากรอกชื่อของคุณ",
+        "emailInvalid": "กรุณากรอกอีเมลให้ถูกต้อง",
+        "messageRequired": "กรุณาระบุไอเดียลายสัก ขนาด และตำแหน่งที่ต้องการ"
+      },
+      "infoHeading": "ข้อมูลสตูดิโอ",
+      "emailLabelInfo": "อีเมล",
+      "phoneLabelInfo": "โทรศัพท์ / WhatsApp",
+      "addressLabelInfo": "ที่อยู่",
+      "nailHeading": "สอบถามข้อมูลร้านทำเล็บ",
+      "nailBody": "ต้องการจองคิวทำเล็บในสถานที่เดียวกันใช่ไหม? สามารถสอบถามคิวว่างและบริการของร้านทำเล็บได้เมื่อติดต่อเรา!",
+      "mapHeading": "สถานที่ทำงานของฉัน",
+      "mapTitle": "แผนที่แสดงที่ตั้ง Aof Tattoo Studio Phuket ถนนกะตะ กะรน ภูเก็ต",
+      "faqHeading": "คำถามที่พบบ่อย (FAQ)",
+      "faqs": [
+        {
+          "question": "รอยสักราคาเท่าไหร่?",
+          "answer": "ราคาขึ้นอยู่กับขนาด รายละเอียด และเทคนิคที่ใช้ (ไม้ไผ่หรือเครื่องสัก) สามารถส่งไอเดียลายสักมาให้เราเพื่อประเมินราคาเบื้องต้นได้ครับ"
+        },
+        {
+          "question": "มีบริการช่วยออกแบบหรือวาดแบบให้ไหม?",
+          "answer": "มีครับแน่นอน! รอยสักทุกชิ้นเป็นงานออกแบบพิเศษ เราจะทำงานร่วมกันในการออกแบบและปรับแก้เพื่อให้มั่นใจว่าคุณจะได้ลายที่ต้องการอย่างแท้จริง"
+        },
+        {
+          "question": "สักเจ็บไหม?",
+          "answer": "ความเจ็บเป็นเรื่องส่วนบุคคลและขึ้นอยู่กับตำแหน่งบนร่างกาย โดยทั่วไปแล้ว การสักยันต์ด้วยไม้ไผ่แบบดั้งเดิมจะเจ็บน้อยกว่าและแผลหายเร็วกว่าการสักด้วยเครื่องอย่างเห็นได้ชัด"
+        },
+        {
+          "question": "ควรเตรียมตัวอย่างไรก่อนมาสัก?",
+          "answer": "นอนหลับพักผ่อนให้เพียงพอ ทานอาหารมื้อหลักมาให้เรียบร้อยก่อนเริ่มสัก และดื่มน้ำเยอะๆ งดดื่มแอลกอฮอล์ 24 ชั่วโมงก่อนถึงเวลานัดหมาย"
+        },
+        {
+          "question": "วิธีดูแลรักษารอยสักใหม่ทำอย่างไร?",
+          "answer": "ดูแลรอยสักให้สะอาด หลีกเลี่ยงการว่ายน้ำ เข้าซาวน่า และโดนแสงแดดโดยตรงในช่วง 2 สัปดาห์แรก ทาครีมบำรุงตามที่สตูดิโอแนะนำ"
+        },
+        {
+          "question": "ปลอดภัยและสะอาดถูกสุขอนามัยไหม?",
+          "answer": "ความปลอดภัยของคุณคือสิ่งสำคัญที่สุดของเรา เราใช้เข็มสักแบบใช้ครั้งเดียวทิ้งที่ผ่านการฆ่าเชื้อ 100% และปฏิบัติตามมาตรฐานสุขอนามัยระดับมืออาชีพอย่างเคร่งครัด"
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "© 2026 Aof Tattoo Studio Phuket. All rights reserved.",
+      "instagramLabel": "Instagram",
+      "facebookLabel": "Facebook"
+    }
+  }
+}

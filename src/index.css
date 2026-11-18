@@ -1,0 +1,196 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-display: 'Cinzel', 'Noto Sans Thai', serif;
+    --font-body: 'Inter', 'Noto Sans Thai', sans-serif;
+  }
+
+  html {
+    background-color: #070707;
+    color: #cccccc;
+    font-family: var(--font-body);
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #070707;
+    color: #cccccc;
+    font-family: var(--font-body);
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  .font-display {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+  }
+}
+
+.navbar-glass {
+  background-color: rgba(0, 0, 0, 0.78);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
+}
+
+.hero-spotlight {
+  background: radial-gradient(
+    ellipse 72% 62% at 68% 42%,
+    rgba(255, 69, 0, 0.09) 0%,
+    rgba(166, 169, 176, 0.05) 42%,
+    rgba(7, 7, 7, 0) 76%
+  );
+}
+
+.cta-primary {
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid #ffffff;
+  border-radius: 9999px;
+  transition:
+    background-color 200ms cubic-bezier(0.16, 1, 0.3, 1),
+    color 200ms cubic-bezier(0.16, 1, 0.3, 1),
+    border-color 200ms cubic-bezier(0.16, 1, 0.3, 1),
+    transform 200ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.cta-primary:hover {
+  background-color: transparent;
+  color: #ffffff;
+  border-color: #ffffff;
+  transform: translateY(-1px);
+}
+
+.cta-secondary {
+  background-color: rgba(18, 18, 18, 0.55);
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 9999px;
+  transition:
+    background-color 200ms cubic-bezier(0.16, 1, 0.3, 1),
+    border-color 200ms cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 200ms cubic-bezier(0.16, 1, 0.3, 1),
+    transform 200ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.cta-secondary:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: #ffffff;
+  box-shadow: 0 0 20px rgba(255, 69, 0, 0.24);
+  transform: translateY(-1px);
+}
+
+.luxury-card {
+  border-radius: 12px;
+  transition:
+    transform 280ms cubic-bezier(0.16, 1, 0.3, 1),
+    border-color 280ms cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 280ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.luxury-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 69, 0, 0.65);
+  box-shadow:
+    0 14px 32px -12px rgba(255, 69, 0, 0.22),
+    0 0 0 1px rgba(255, 69, 0, 0.18);
+}
+
+.portfolio-card-img {
+  filter: grayscale(25%);
+  transition:
+    filter 500ms cubic-bezier(0.16, 1, 0.3, 1),
+    transform 500ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.portfolio-card:hover .portfolio-card-img,
+.portfolio-card:focus-visible .portfolio-card-img {
+  filter: grayscale(0%);
+  transform: scale(1.05);
+}
+
+.reveal-block {
+  opacity: 0;
+  transform: translateY(20px);
+  transition:
+    opacity 550ms cubic-bezier(0.16, 1, 0.3, 1),
+    transform 550ms cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+
+.reveal-block.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@keyframes marquee-scroll {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll 30s linear infinite;
+  will-change: transform;
+}
+
+.marquee-container:hover .marquee-track {
+  animation-play-state: paused;
+}
+
+@keyframes whatsapp-pulse-ring {
+  0% {
+    transform: scale(1);
+    opacity: 0.65;
+  }
+  75%,
+  100% {
+    transform: scale(1.48);
+    opacity: 0;
+  }
+}
+
+.whatsapp-pulse {
+  animation: whatsapp-pulse-ring 2.2s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .reveal-block {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .luxury-card:hover,
+  .cta-primary:hover,
+  .cta-secondary:hover {
+    transform: none;
+  }
+
+  .portfolio-card:hover .portfolio-card-img,
+  .portfolio-card:focus-visible .portfolio-card-img {
+    transform: none;
+  }
+
+  .marquee-track {
+    animation: none;
+  }
+
+  .whatsapp-pulse {
+    animation: none;
+    opacity: 0;
+  }
+}

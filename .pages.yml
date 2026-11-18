@@ -1,0 +1,138 @@
+media:
+  - name: images
+    label: Portfolio Images (10 Categories)
+    input: public/images
+    output: /images
+    categories: [image]
+  - name: kuvat
+    label: Hero & Studio Photos
+    input: public/kuvat
+    output: /kuvat
+    categories: [image]
+
+content:
+  - name: site_content
+    label: Aof Tattoo Studio Content
+    type: file
+    path: public/data/content.json
+    format: json
+    fields:
+      - name: portfolio
+        label: Tattoo Portfolio Gallery
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{fields.category} — {fields.title}"
+        fields:
+          - name: image
+            label: Tattoo Photo
+            type: image
+            required: true
+            options:
+              media: images
+          - name: category
+            label: Tattoo Style (10 Categories)
+            type: select
+            required: true
+            options:
+              values:
+                - name: sak-yant
+                  label: "1. Sak Yant (Bamboo & Machine)"
+                - name: realistic
+                  label: "2. Realistic Style Tattoos"
+                - name: geometric
+                  label: "3. Geometric Style Tattoos"
+                - name: polynesian
+                  label: "4. Polynesian Style Tattoos"
+                - name: full-sleeve
+                  label: "5. Full Sleeve Tattoos"
+                - name: half-sleeve
+                  label: "6. Half Sleeve Tattoos"
+                - name: full-back
+                  label: "7. Full Back Tattoos"
+                - name: coverup
+                  label: "8. Cover-up Tattoos"
+                - name: minimal
+                  label: "9. Minimal Tattoos"
+                - name: small-jobs
+                  label: "10. Small Job Tattoos"
+          - name: title
+            label: Title / Placement (Optional)
+            type: string
+
+      - name: studio
+        label: Studio Info & Social Links
+        type: object
+        fields:
+          - name: email
+            label: Email
+            type: string
+          - name: phone
+            label: Phone / WhatsApp
+            type: string
+          - name: address
+            label: Studio Address
+            type: string
+          - name: instagram
+            label: Instagram URL
+            type: string
+          - name: facebook
+            label: Facebook URL
+            type: string
+
+      - name: en
+        label: English Content (EN)
+        type: object
+        fields:
+          - name: hero_subtitle
+            label: Hero Subtitle (EN)
+            type: text
+          - name: nail_title
+            label: Nail Salon Title (EN)
+            type: string
+          - name: nail_body
+            label: Nail Salon Description (EN)
+            type: text
+          - name: faqs
+            label: FAQs (EN)
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{fields.question}"
+            fields:
+              - name: question
+                label: Question
+                type: string
+              - name: answer
+                label: Answer
+                type: text
+
+      - name: th
+        label: Thai Content (TH)
+        type: object
+        fields:
+          - name: hero_subtitle
+            label: Hero Subtitle (TH)
+            type: text
+          - name: nail_title
+            label: Nail Salon Title (TH)
+            type: string
+          - name: nail_body
+            label: Nail Salon Description (TH)
+            type: text
+          - name: faqs
+            label: FAQs (TH)
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{fields.question}"
+            fields:
+              - name: question
+                label: Question
+                type: string
+              - name: answer
+                label: Answer
+                type: text
